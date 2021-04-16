@@ -40,6 +40,7 @@ function allClear(){
 function compute(){
 	screenLower.innerHTML = eval(string);
 	screenUpper.innerHTML = string;
+	string = eval(string);
 }
 
 
