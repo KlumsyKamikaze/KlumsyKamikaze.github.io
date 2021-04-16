@@ -21,11 +21,13 @@
 .screenUpper{
 	width: 498px;
 	height:100px;
+	font-size: 30px;
 }
 
 .screenLower{
 	width: 498px;
 	height: 200px;
+	font-size: 40px;
 }
 
 .button{
